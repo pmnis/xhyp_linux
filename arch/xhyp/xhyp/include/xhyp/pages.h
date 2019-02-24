@@ -1,0 +1,1 @@
+#define SECTION_SIZE	0x00100000
